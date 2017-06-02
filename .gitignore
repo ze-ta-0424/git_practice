@@ -1,0 +1,11 @@
+*.suo
+*.user
+*.sln.docstates
+
+*.VC.db
+*.opendb
+
+*.sdf
+
+Debug/
+Release/
